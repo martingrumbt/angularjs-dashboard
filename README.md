@@ -1,4 +1,11 @@
-# `angular-seed` — the seed for AngularJS apps
+# Dashboard
+
+## Fixes for the seed project
+* update karma-jasmine to `^2.0.0`
+* to update webdriver, connect to a non proxy network (e.g. LTE) or add proxy param and avoid ssl
+
+
+## `angular-seed` — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS][angularjs] web app. You can use it
 to quickly bootstrap your angular webapp projects and dev environment for these projects.
